@@ -4,7 +4,7 @@
 
 A market-screening and decision-support project motivated by international business development around Pakistani rice exports. It combines reproducible historical trade analysis with a separate commercial research judgment for a Basmati-focused exporter. It does not predict sales, profitability, buyer conversion or successful entry.
 
-Read the [Final Report (PDF)](Report.pdf), [HTML Report](Report.html), or [Markdown Report](Rport.md).
+Read the [Final Report (PDF)](Report.pdf), [HTML Report](Report.html), or [Markdown Report](Report.md).
 
 ## Business question
 
