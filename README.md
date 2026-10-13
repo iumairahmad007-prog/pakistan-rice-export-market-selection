@@ -52,12 +52,7 @@ Four pages cover the global screen, six-market comparison, Pakistan's competitiv
 
 **Status:** import-ready tables, DAX, Power Query, theme and validated reference layouts are supplied. Native Power BI Desktop assembly, M/DAX execution and acceptance checks remain pending. No tested `.pbix` is claimed. Dashboard styling was not changed during Phase 9.
 
-Final screenshot slots, to be replaced only after Desktop checks:
 
-- [FINAL DASHBOARD SCREENSHOT - PAGE 1]
-- [FINAL DASHBOARD SCREENSHOT - PAGE 2]
-- [FINAL DASHBOARD SCREENSHOT - PAGE 3]
-- [FINAL DASHBOARD SCREENSHOT - PAGE 4]
 
 ## Repository structure
 
