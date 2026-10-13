@@ -1,0 +1,8 @@
+ScenarioID,Scenario,Family,ScenarioOrder,UniverseN,SizeWeight,GrowthWeight,StabilityWeight,UnitValueWeight,Interpretation
+strict_base,Strict - base 40/30/20/10,Strict weights,1,69,0.4,0.3,0.2,0.1,Fixed 69-market reference; ranks do not change when markets are filtered.
+strict_growth,Strict - growth emphasis,Strict weights,2,69,0.25,0.5,0.15,0.1,Fixed 69-market reference; ranks do not change when markets are filtered.
+strict_stability,Strict - stability emphasis,Strict weights,3,69,0.35,0.15,0.4,0.1,Fixed 69-market reference; ranks do not change when markets are filtered.
+strict_equal,Strict - equal weights,Strict weights,4,69,0.25,0.25,0.25,0.25,Fixed 69-market reference; ranks do not change when markets are filtered.
+strict_no_uv,Strict - no unit value,Strict weights,5,69,0.4444444444444444,0.33333333333333337,0.2222222222222222,0.0,Fixed 69-market reference; ranks do not change when markets are filtered.
+quality_base,Quality sensitivity - 67 markets,Quality sensitivity,6,67,0.4,0.3,0.2,0.1,Separate 67-market normalization excluding Malawi and Mauritius; main membership unchanged.
+extended_base,Extended sensitivity - 134 markets,Estimated-quantity extension,7,134,0.4,0.3,0.2,0.1,Separate 134-market normalization: 69 strict plus 65 estimated additions. Not the main ranking.

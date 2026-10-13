@@ -1,0 +1,25 @@
+{
+  "checked_date": "2026-09-28",
+  "checks": {
+    "approved_raw_clean_exploratory_screening_and_readme_unchanged": true,
+    "table_keys_foreign_keys_and_69_65_134_panels": true,
+    "scenario_counts_weights_and_calendar_fiscal_separation": true,
+    "all_546_scores_ranks_components_equal_approved_outputs": true,
+    "uk_and_missing_trade_preserved": true,
+    "supplier_denominators_categories_and_pbs_absence_preserved": true,
+    "m_dax_static_schema_references": true,
+    "native_power_bi_execution": "PENDING: requires Power BI Desktop",
+    "desktop_acceptance_case_source_values": true,
+    "notebook_37_executed_cells": true
+  },
+  "table_rows": {
+    "Markets": 181,
+    "AnnualImports": 1013,
+    "Scenarios": 7,
+    "Screening": 546,
+    "SupplierShares": 262,
+    "MirrorComparison": 18,
+    "PBSBasmati": 12
+  },
+  "native_status": "CSV/model-source checks passed. M/DAX execution and actual report interactions are not claimed; complete the guide checks in Desktop."
+}

@@ -1,0 +1,117 @@
+// Create each measure separately in Power BI (Modeling > New measure).
+// Home table: Markets. Format instructions are in Power_BI_Build_Guide.md.
+// These measures display approved values; they do not recalculate scores or ranks.
+
+Selected score =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( Scenarios[ScenarioID] ),
+    MAX ( Screening[Score] )
+)
+
+Original universe rank =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( Scenarios[ScenarioID] ),
+    MAX ( Screening[OriginalRank] )
+)
+
+Original universe size = SELECTEDVALUE ( Scenarios[UniverseN] )
+
+Visible scored markets = DISTINCTCOUNT ( Screening[EconomyID] )
+
+Scenario note = SELECTEDVALUE ( Scenarios[Interpretation], "Select one scenario." )
+
+Market size USD m =
+IF ( HASONEVALUE ( Markets[EconomyID] ), DIVIDE ( MAX ( Markets[MeanImportValueUSD] ), 1000000 ) )
+
+Quantity CAGR =
+IF ( HASONEVALUE ( Markets[EconomyID] ), MAX ( Markets[QuantityCAGR] ) )
+
+Growth variability pp =
+IF ( HASONEVALUE ( Markets[EconomyID] ), 100 * MAX ( Markets[GrowthSD] ) )
+
+Pooled unit value USD t =
+IF ( HASONEVALUE ( Markets[EconomyID] ), MAX ( Markets[PooledUnitValueUSDt] ) )
+
+Pakistan share 2023 =
+IF ( HASONEVALUE ( Markets[EconomyID] ), MAX ( Markets[PakistanShare2023] ) )
+
+Pakistan share change pp =
+IF ( HASONEVALUE ( Markets[EconomyID] ), MAX ( Markets[PakistanShareChangePP] ) )
+
+Annual import value USD m =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( AnnualImports[Year] ),
+    DIVIDE ( SUM ( AnnualImports[WorldImportValueUSD] ), 1000000 )
+)
+
+Annual quantity thousand t =
+IF (
+    HASONEVALUE ( Markets[EconomyID] )
+        && HASONEVALUE ( AnnualImports[Year] )
+        && SELECTEDVALUE ( Markets[QuantityComplete], FALSE () ),
+    DIVIDE ( SUM ( AnnualImports[WorldQuantityTonnes] ), 1000 )
+)
+
+Annual Pakistan share =
+VAR PakistanValue = SUM ( AnnualImports[PakistanImportValueUSD] )
+RETURN
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( AnnualImports[Year] )
+        && NOT ISBLANK ( PakistanValue ),
+    DIVIDE ( PakistanValue, SUM ( AnnualImports[WorldImportValueUSD] ) )
+)
+
+Supplier share =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( SupplierShares[Year] ),
+    SUM ( SupplierShares[ValueShare] )
+)
+
+Importer mirror USD m =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( MirrorComparison[Year] ),
+    DIVIDE ( SUM ( MirrorComparison[ImporterValueUSD] ), 1000000 )
+)
+
+Pakistan exporter mirror USD m =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( MirrorComparison[Year] ),
+    DIVIDE ( SUM ( MirrorComparison[PakistanExporterValueUSD] ), 1000000 )
+)
+
+PBS Basmati value USD m =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( PBSBasmati[FiscalYear] ),
+    DIVIDE ( SUM ( PBSBasmati[ExportValueUSDRounded] ), 1000000 )
+)
+
+PBS Basmati tonnes =
+IF (
+    HASONEVALUE ( Markets[EconomyID] ) && HASONEVALUE ( PBSBasmati[FiscalYear] ),
+    SUM ( PBSBasmati[ExportQuantityTonnes] )
+)
+
+PBS context note =
+IF (
+    NOT HASONEVALUE ( Markets[EconomyID] ),
+    "Select one market; PBS fiscal-year evidence is separate from Comtrade.",
+    IF (
+        COUNTROWS ( PBSBasmati ) = 0,
+        "Not listed in the retained PBS top-20 evidence; this does not mean zero exports.",
+        "PBS Basmati: fiscal years, rounded USD values; not calendar-year HS 100630 shares."
+    )
+)
+
+Market status = SELECTEDVALUE ( Markets[Status], "Select one market for its quantity status." )
+
+Strict rank range =
+VAR Best = SELECTEDVALUE ( Markets[BestStrictRank] )
+VAR Worst = SELECTEDVALUE ( Markets[WorstStrictRank] )
+RETURN
+IF ( NOT ISBLANK ( Best ), FORMAT ( Best, "0" ) & "-" & FORMAT ( Worst, "0" ), "Not available" )
+
+Strict base rank =
+IF ( HASONEVALUE ( Markets[EconomyID] ), MAX ( Markets[StrictBaseRank] ) )
+
+Extended base rank =
+IF ( HASONEVALUE ( Markets[EconomyID] ), MAX ( Markets[ExtendedBaseRank] ) )

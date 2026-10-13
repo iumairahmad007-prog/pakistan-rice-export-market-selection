@@ -1,0 +1,13 @@
+EconomyID,FiscalYear,ExportValueUSDRounded,ExportQuantityTonnes,SourceFile,SourceNote
+CT:036,FY2023,15000000,13983,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:036,FY2024,19000000,16675,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:404,FY2023,16000000,19130,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:404,FY2024,12000000,12700,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:512,FY2023,51000000,42674,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:512,FY2024,71000000,58249,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:710,FY2023,9000000,7129,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:710,FY2024,7000000,5505,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:826,FY2023,32000000,25162,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:826,FY2024,45000000,37395,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:842,FY2023,31000000,21066,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.
+CT:842,FY2024,31000000,22276,data/raw/pbs/Annual_Trade_Report_FY2023_24.pdf,FY2024 top-20 destinations with FY2023 comparators; rounded value; absence is not zero; separate from calendar-year Comtrade.

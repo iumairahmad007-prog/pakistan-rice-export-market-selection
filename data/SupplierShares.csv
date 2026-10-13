@@ -1,0 +1,263 @@
+EconomyID,Year,SupplierID,Supplier,SupplierType,ImportValueUSD,ValueShare,SourceFile,SupplierDisplay
+CT:031,2018,CT:036,Australia,country_or_area,649.87,2.6444660539636e-05,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:116,Cambodia,country_or_area,3429.67,0.0001395609258974,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:251,France,country_or_area,2711.84,0.0001103508212993,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:300,Greece,country_or_area,547.2,2.2266789122884303e-05,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:380,Italy,country_or_area,22129.1,0.0009004824619503,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:392,Japan,country_or_area,446.34,1.8162570645300032e-05,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:398,Kazakhstan,country_or_area,3320271.79,0.1351092686012273,data/raw/comtrade/suppliers_azerbaijan_2018.json,Kazakhstan
+CT:031,2018,CT:442,Luxembourg,country_or_area,8268.61,0.0003364681929995,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:504,Morocco,country_or_area,211.72,8.615359271010717e-06,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:586,Pakistan,country_or_area,1320130.08,0.0537190389366527,data/raw/comtrade/suppliers_azerbaijan_2018.json,Pakistan
+CT:031,2018,CT:643,Russian Federation,country_or_area,3702407.98,0.1506592429414182,data/raw/comtrade/suppliers_azerbaijan_2018.json,Russian Federation
+CT:031,2018,CT:699,India,country_or_area,15951510.32,0.6491025520594895,data/raw/comtrade/suppliers_azerbaijan_2018.json,India
+CT:031,2018,CT:704,Viet Nam,country_or_area,4443.07,0.0001807984333848,data/raw/comtrade/suppliers_azerbaijan_2018.json,Viet Nam
+CT:031,2018,CT:764,Thailand,country_or_area,160845.23,0.0065451513483768,data/raw/comtrade/suppliers_azerbaijan_2018.json,Thailand
+CT:031,2018,CT:792,Türkiye,country_or_area,73237.97,0.002980216435998,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:826,United Kingdom,country_or_area,1681.75,6.843416046675927e-05,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2018,CT:842,USA,country_or_area,1792.61,7.294530126018572e-05,data/raw/comtrade/suppliers_azerbaijan_2018.json,Other supplier countries/areas
+CT:031,2023,CT:036,Australia,country_or_area,60750.0,0.0012192503427847,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:104,Myanmar,country_or_area,1713.51,3.439008485374667e-05,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:156,China,country_or_area,3009352.34,0.0603975946025532,data/raw/comtrade/suppliers_azerbaijan_2023.json,China
+CT:031,2023,CT:251,France,country_or_area,139.22,2.7941404563373494e-06,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:276,Germany,country_or_area,12215.97,0.0002451740841143,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:364,Iran,country_or_area,8000.0,0.0001605597159222,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:380,Italy,country_or_area,24636.04,0.0004944444479812,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:392,Japan,country_or_area,330.36,6.630313469010249e-06,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:398,Kazakhstan,country_or_area,371031.31,0.0074465852164835,data/raw/comtrade/suppliers_azerbaijan_2023.json,Kazakhstan
+CT:031,2023,CT:442,Luxembourg,country_or_area,17678.7,0.0003548108812343,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:586,Pakistan,country_or_area,2028965.69,0.0407212693503047,data/raw/comtrade/suppliers_azerbaijan_2023.json,Pakistan
+CT:031,2023,CT:604,Peru,country_or_area,251.5,5.047596069306445e-06,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:620,Portugal,country_or_area,123.01,2.4688063319498447e-06,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:643,Russian Federation,country_or_area,3690.36,7.406539415636475e-05,data/raw/comtrade/suppliers_azerbaijan_2023.json,Russian Federation
+CT:031,2023,CT:699,India,country_or_area,42245958.12,0.8478748793264282,data/raw/comtrade/suppliers_azerbaijan_2023.json,India
+CT:031,2023,CT:702,Singapore,country_or_area,61.0,1.2242678339073287e-06,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:704,Viet Nam,country_or_area,1047438.19,0.0210220472790674,data/raw/comtrade/suppliers_azerbaijan_2023.json,Viet Nam
+CT:031,2023,CT:724,Spain,country_or_area,45.0,9.031484020627836e-07,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:764,Thailand,country_or_area,809079.8,0.0162382028558061,data/raw/comtrade/suppliers_azerbaijan_2023.json,Thailand
+CT:031,2023,CT:784,United Arab Emirates,country_or_area,547.87,1.0995731445291938e-05,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:792,Türkiye,country_or_area,120258.11,0.0024135759973686,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:842,USA,country_or_area,20820.73,0.0004178713117617,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:031,2023,CT:858,Uruguay,country_or_area,42611.69,0.0008552151051709,data/raw/comtrade/suppliers_azerbaijan_2023.json,Other supplier countries/areas
+CT:398,2018,CT:056,Belgium,country_or_area,39.3,7.23145664208216e-06,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:112,Belarus,country_or_area,1728.0,0.0003179632844152,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:251,France,country_or_area,329.65,6.065775272423369e-05,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:276,Germany,country_or_area,5848.55,0.0010761713929783,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:364,Iran,country_or_area,6400.0,0.0011776417941304,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:380,Italy,country_or_area,27349.56,0.0050324976417309,data/raw/comtrade/suppliers_kazakhstan_2018.json,Italy
+CT:398,2018,CT:410,Rep. of Korea,country_or_area,176.67,3.2508433713909806e-05,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:417,Kyrgyzstan,country_or_area,3092.0,0.0005689481917892,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:586,Pakistan,country_or_area,40858.69,0.0075182657808467,data/raw/comtrade/suppliers_kazakhstan_2018.json,Pakistan
+CT:398,2018,CT:643,Russian Federation,country_or_area,4413234.07,0.8120638887675519,data/raw/comtrade/suppliers_kazakhstan_2018.json,Russian Federation
+CT:398,2018,CT:699,India,country_or_area,910705.01,0.1675756690468702,data/raw/comtrade/suppliers_kazakhstan_2018.json,India
+CT:398,2018,CT:762,Tajikistan,country_or_area,4804.39,0.0008840391342659,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:792,Türkiye,country_or_area,10104.42,0.0018592792652261,data/raw/comtrade/suppliers_kazakhstan_2018.json,Türkiye
+CT:398,2018,CT:826,United Kingdom,country_or_area,84.7,1.5585353119194886e-05,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2018,CT:860,Uzbekistan,country_or_area,9834.72,0.0018096527039953,data/raw/comtrade/suppliers_kazakhstan_2018.json,Other supplier countries/areas
+CT:398,2023,CT:004,Afghanistan,country_or_area,59956.2,0.0031549853919522,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:156,China,country_or_area,628366.72,0.0330656015956473,data/raw/comtrade/suppliers_kazakhstan_2023.json,China
+CT:398,2023,CT:276,Germany,country_or_area,378.4,1.991197694841787e-05,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:364,Iran,country_or_area,1240.0,6.52506644187055e-05,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:380,Italy,country_or_area,47806.18,0.0025156330712259,data/raw/comtrade/suppliers_kazakhstan_2023.json,Italy
+CT:398,2023,CT:417,Kyrgyzstan,country_or_area,11818.93,0.0006219298671114,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:586,Pakistan,country_or_area,847187.11,0.0445802595277926,data/raw/comtrade/suppliers_kazakhstan_2023.json,Pakistan
+CT:398,2023,CT:643,Russian Federation,country_or_area,13656852.53,0.718644114073209,data/raw/comtrade/suppliers_kazakhstan_2023.json,Russian Federation
+CT:398,2023,CT:699,India,country_or_area,2817665.9,0.148269816197524,data/raw/comtrade/suppliers_kazakhstan_2023.json,India
+CT:398,2023,CT:704,Viet Nam,country_or_area,677670.14,0.0356600216868686,data/raw/comtrade/suppliers_kazakhstan_2023.json,Viet Nam
+CT:398,2023,CT:762,Tajikistan,country_or_area,1249.64,6.575793571305739e-05,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:764,Thailand,country_or_area,144642.29,0.0076112947786637,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:792,Türkiye,country_or_area,565.81,2.977377293124819e-05,data/raw/comtrade/suppliers_kazakhstan_2023.json,Türkiye
+CT:398,2023,CT:858,Uruguay,country_or_area,86750.0,0.0045649154341312,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:398,2023,CT:860,Uzbekistan,country_or_area,21488.06,0.0011307340258621,data/raw/comtrade/suppliers_kazakhstan_2023.json,Other supplier countries/areas
+CT:404,2018,CT:036,Australia,country_or_area,17.1,6.962712817579848e-08,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:116,Cambodia,country_or_area,56709.356,0.0002309069940923,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:156,China,country_or_area,18045832.326,0.0734783321872145,data/raw/comtrade/suppliers_kenya_2018.json,China
+CT:404,2018,CT:231,Ethiopia,country_or_area,37256.193,0.0001516983465118,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:344,"China, Hong Kong SAR",country_or_area,102981.324,0.0004193154295825,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:380,Italy,country_or_area,23868.21,9.718566766063594e-05,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:392,Japan,country_or_area,471388.302,0.0019193809195278,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:410,Rep. of Korea,country_or_area,6107558.074,0.0248685221555281,data/raw/comtrade/suppliers_kenya_2018.json,Rep. of Korea
+CT:404,2018,CT:512,Oman,country_or_area,129.275,5.263770172471547e-07,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:586,Pakistan,country_or_area,132534532.94,0.5396490592241499,data/raw/comtrade/suppliers_kenya_2018.json,Pakistan
+CT:404,2018,CT:699,India,country_or_area,13391770.564,0.0545281009099715,data/raw/comtrade/suppliers_kenya_2018.json,India
+CT:404,2018,CT:704,Viet Nam,country_or_area,9445.975,3.846176093978876e-05,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:757,Switzerland,country_or_area,29.989,1.2210806706807138e-07,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:764,Thailand,country_or_area,73926338.841,0.3010104485409249,data/raw/comtrade/suppliers_kenya_2018.json,Thailand
+CT:404,2018,CT:784,United Arab Emirates,country_or_area,1380.604,5.621490740819887e-06,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:818,Egypt,country_or_area,181888.612,0.0007406071170433,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:826,United Kingdom,country_or_area,12961.692,5.277692340697201e-05,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:834,United Rep. of Tanzania,country_or_area,682907.704,0.0027806375578156,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2018,CT:842,USA,country_or_area,6932.297,2.8226662676707782e-05,data/raw/comtrade/suppliers_kenya_2018.json,Other supplier countries/areas
+CT:404,2023,CT:032,Argentina,country_or_area,262.526,7.468632591907585e-07,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:116,Cambodia,country_or_area,43252.224,0.0001230487532049,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:124,Canada,country_or_area,22.827,6.494079678792746e-08,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:156,China,country_or_area,172683.211,0.0004912684677898,data/raw/comtrade/suppliers_kenya_2023.json,China
+CT:404,2023,CT:251,France,country_or_area,2173.83,6.184354154356697e-06,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:380,Italy,country_or_area,26538.436,7.549950406735088e-05,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:392,Japan,country_or_area,6787.057,1.9308577098395783e-05,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:410,Rep. of Korea,country_or_area,4517455.119,0.0128517604101091,data/raw/comtrade/suppliers_kenya_2023.json,Rep. of Korea
+CT:404,2023,CT:480,Mauritius,country_or_area,2070587.459,0.005890638253233,data/raw/comtrade/suppliers_kenya_2023.json,Mauritius
+CT:404,2023,CT:528,Netherlands,country_or_area,309.856,8.815129245857997e-07,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:586,Pakistan,country_or_area,102159735.229,0.290635414439697,data/raw/comtrade/suppliers_kenya_2023.json,Pakistan
+CT:404,2023,CT:699,India,country_or_area,236641141.305,0.6732231247711583,data/raw/comtrade/suppliers_kenya_2023.json,India
+CT:404,2023,CT:704,Viet Nam,country_or_area,34554.33,9.830401378512224e-05,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:764,Thailand,country_or_area,4040470.673,0.011494781833043,data/raw/comtrade/suppliers_kenya_2023.json,Thailand
+CT:404,2023,CT:784,United Arab Emirates,country_or_area,668174.139,0.0019008963499254,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:826,United Kingdom,country_or_area,9295.66,2.644533083934226e-05,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:834,United Rep. of Tanzania,country_or_area,1059694.864,0.0030147381968823,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:842,USA,country_or_area,148.965,4.2379225450184493e-07,data/raw/comtrade/suppliers_kenya_2023.json,Other supplier countries/areas
+CT:404,2023,CT:899,"Areas, nes",special_category,51484.776,0.0001464696357772,data/raw/comtrade/suppliers_kenya_2023.json,"Areas, nes (special category)"
+CT:512,2018,CT:036,Australia,country_or_area,334148.214,0.001422149662747,data/raw/comtrade/suppliers_oman_2018.json,Australia
+CT:512,2018,CT:144,Sri Lanka,country_or_area,31016.902,0.0001320093146413,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:156,China,country_or_area,140.442,5.977273993016971e-07,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:251,France,country_or_area,6392.717,2.720768792015029e-05,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:380,Italy,country_or_area,4054.616,1.725662605806703e-05,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:586,Pakistan,country_or_area,64075580.709,0.2727085217807818,data/raw/comtrade/suppliers_oman_2018.json,Pakistan
+CT:512,2018,CT:634,Qatar,country_or_area,78143.036,0.0003325802372639,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:682,Saudi Arabia,country_or_area,3869.961,1.647072616403209e-05,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:699,India,country_or_area,111046705.22,0.4726197171228891,data/raw/comtrade/suppliers_oman_2018.json,India
+CT:512,2018,CT:702,Singapore,country_or_area,230561.748,0.0009812810555994,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:704,Viet Nam,country_or_area,211263.96,0.0008991488114451,data/raw/comtrade/suppliers_oman_2018.json,Viet Nam
+CT:512,2018,CT:764,Thailand,country_or_area,3201809.855,0.0136270451694485,data/raw/comtrade/suppliers_oman_2018.json,Thailand
+CT:512,2018,CT:784,United Arab Emirates,country_or_area,55666905.263,0.2369208250382858,data/raw/comtrade/suppliers_oman_2018.json,United Arab Emirates
+CT:512,2018,CT:792,Türkiye,country_or_area,429.129,1.8263921130070637e-06,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:818,Egypt,country_or_area,452.536,1.926013346224013e-06,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:834,United Rep. of Tanzania,country_or_area,52.016,2.2138240983521365e-07,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2018,CT:838,Free Zones,special_category,62582.569,0.0002663541975334,data/raw/comtrade/suppliers_oman_2018.json,Free Zones (special category)
+CT:512,2018,CT:842,USA,country_or_area,5841.352,2.486105395370165e-05,data/raw/comtrade/suppliers_oman_2018.json,Other supplier countries/areas
+CT:512,2023,CT:036,Australia,country_or_area,326205.461,0.0011797485110471,data/raw/comtrade/suppliers_oman_2023.json,Australia
+CT:512,2023,CT:050,Bangladesh,country_or_area,17271.782,6.2464800666321e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:056,Belgium,country_or_area,397.919,1.4391063421447643e-06,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:144,Sri Lanka,country_or_area,200119.636,0.000723748897025,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:364,Iran,country_or_area,9576.073,3.4632644802437786e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:380,Italy,country_or_area,17193.758,6.21826205411209e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:586,Pakistan,country_or_area,50925016.825,0.1841744543152911,data/raw/comtrade/suppliers_oman_2023.json,Pakistan
+CT:512,2023,CT:608,Philippines,country_or_area,30387.516,0.0001098989166077,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:634,Qatar,country_or_area,12431.729,4.4960356373344805e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:682,Saudi Arabia,country_or_area,66928.478,0.0002420522698335,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:699,India,country_or_area,197849040.002,0.7155371024106199,data/raw/comtrade/suppliers_oman_2023.json,India
+CT:512,2023,CT:704,Viet Nam,country_or_area,1766026.005,0.0063869763046953,data/raw/comtrade/suppliers_oman_2023.json,Viet Nam
+CT:512,2023,CT:764,Thailand,country_or_area,3472507.147,0.0125586037821534,data/raw/comtrade/suppliers_oman_2023.json,Thailand
+CT:512,2023,CT:784,United Arab Emirates,country_or_area,21629263.945,0.078223987593386,data/raw/comtrade/suppliers_oman_2023.json,United Arab Emirates
+CT:512,2023,CT:792,Türkiye,country_or_area,109646.294,0.0003965447166083,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:818,Egypt,country_or_area,35760.728,0.0001293315736733,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:826,United Kingdom,country_or_area,3089.727,1.1174248329926231e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:834,United Rep. of Tanzania,country_or_area,12837.451,4.642768289795825e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:842,USA,country_or_area,572.172,2.0693064518096754e-06,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:512,2023,CT:887,Yemen,country_or_area,19963.589,7.219993903752134e-05,data/raw/comtrade/suppliers_oman_2023.json,Other supplier countries/areas
+CT:826,2018,CT:032,Argentina,country_or_area,13566.48,5.706619157457183e-05,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:036,Australia,country_or_area,305115.003,0.0012834391244798,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:050,Bangladesh,country_or_area,336989.024,0.0014175143590756,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:056,Belgium,country_or_area,1079524.249,0.0045409227450915,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:076,Brazil,country_or_area,41931.423,0.0001763808016458,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:104,Myanmar,country_or_area,2910012.718,0.0122407096940273,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:116,Cambodia,country_or_area,11830197.83,0.0497626750440692,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:144,Sri Lanka,country_or_area,471074.81,0.0019815342928611,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:156,China,country_or_area,59516.86,0.0002503523784118,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:191,Croatia,country_or_area,1046.45,4.401798858157067e-06,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:203,Czechia,country_or_area,22429.274,9.434674631610876e-05,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:208,Denmark,country_or_area,698316.026,0.0029374042580912,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:251,France,country_or_area,10469843.165,0.0440404641299446,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:276,Germany,country_or_area,1567543.811,0.006593733630246,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:300,Greece,country_or_area,230524.721,0.0009696817369915,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:364,Iran,country_or_area,38673.279,0.0001626757086754,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:372,Ireland,country_or_area,918389.592,0.0038631241410568,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:380,Italy,country_or_area,61372218.682,0.2581567796999315,data/raw/comtrade/suppliers_united_kingdom_2018.json,Italy
+CT:826,2018,CT:392,Japan,country_or_area,1023604.562,0.0043057015549868,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:410,Rep. of Korea,country_or_area,36883.368,0.000155146607241,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:418,Lao People's Dem. Rep.,country_or_area,81753.928,0.0003438906272829,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:422,Lebanon,country_or_area,19682.342,8.279202115863814e-05,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:428,Latvia,country_or_area,73401.012,0.000308754829002,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:440,Lithuania,country_or_area,58950.922,0.0002479718105469,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:442,Luxembourg,country_or_area,18.687,7.860520355715145e-08,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:454,Malawi,country_or_area,10054.732,4.229433593260578e-05,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:490,"Other Asia, nes",reporting_area,112046.261,0.0004713126319753,data/raw/comtrade/suppliers_united_kingdom_2018.json,"Other Asia, nes (special category)"
+CT:826,2018,CT:528,Netherlands,country_or_area,28385541.791,0.1194012570536514,data/raw/comtrade/suppliers_united_kingdom_2018.json,Netherlands
+CT:826,2018,CT:586,Pakistan,country_or_area,18512965.462,0.0778731427509511,data/raw/comtrade/suppliers_united_kingdom_2018.json,Pakistan
+CT:826,2018,CT:616,Poland,country_or_area,460729.1,0.0019380159838499,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:620,Portugal,country_or_area,3039573.674,0.0127856963328371,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:642,Romania,country_or_area,198714.768,0.0008358759987398,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:643,Russian Federation,country_or_area,4109.72,1.7287171678862118e-05,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:699,India,country_or_area,25577387.126,0.1075890042007435,data/raw/comtrade/suppliers_united_kingdom_2018.json,India
+CT:826,2018,CT:703,Slovakia,country_or_area,2.67,1.1231117541477729e-08,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:704,Viet Nam,country_or_area,233894.985,0.0009838584527704,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:724,Spain,country_or_area,28489843.786,0.11983999411944,data/raw/comtrade/suppliers_united_kingdom_2018.json,Spain
+CT:826,2018,CT:764,Thailand,country_or_area,27950837.802,0.1175727133846595,data/raw/comtrade/suppliers_united_kingdom_2018.json,Thailand
+CT:826,2018,CT:784,United Arab Emirates,country_or_area,91751.266,0.0003859435404589,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:792,Türkiye,country_or_area,72725.625,0.0003059138736525,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:826,United Kingdom,country_or_area,23455.703,9.866432861834898e-05,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2018,CT:842,USA,country_or_area,10907510.317,0.0458814720805647,data/raw/comtrade/suppliers_united_kingdom_2018.json,Other supplier countries/areas
+CT:826,2023,CT:032,Argentina,country_or_area,23200.867,6.154595200574486e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:036,Australia,country_or_area,6575025.667,0.0174418574158337,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:050,Bangladesh,country_or_area,724368.941,0.0019215650896683,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:056,Belgium,country_or_area,8882.106,2.356195005927746e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:076,Brazil,country_or_area,185459.022,0.0004919752381255,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:100,Bulgaria,country_or_area,90562.431,0.00024023891141,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:104,Myanmar,country_or_area,14386629.187,0.0381640388468047,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:116,Cambodia,country_or_area,16929816.307,0.044910462264048,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:124,Canada,country_or_area,82.035,2.17617823195628e-07,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:144,Sri Lanka,country_or_area,764032.653,0.0020267827487808,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:156,China,country_or_area,350444.206,0.0009296386330376,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:231,Ethiopia,country_or_area,1206.902,3.2016015853044407e-06,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:251,France,country_or_area,124104.625,0.0003292177526788,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:276,Germany,country_or_area,161278.713,0.0004278310775992,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:288,Ghana,country_or_area,21.13,5.605247277532296e-08,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:300,Greece,country_or_area,618729.551,0.0016413308714015,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:328,Guyana,country_or_area,41514.462,0.0001101272243746,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:344,"China, Hong Kong SAR",country_or_area,106585.273,0.000282743403364,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:360,Indonesia,country_or_area,13050.954,3.4620835010742656e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:364,Iran,country_or_area,29353.459,7.786720120487736e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:372,Ireland,country_or_area,567402.015,0.0015051720775414,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:376,Israel,country_or_area,2386.46,6.330666548953963e-06,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:380,Italy,country_or_area,85544414.239,0.2269273994421437,data/raw/comtrade/suppliers_united_kingdom_2023.json,Italy
+CT:826,2023,CT:392,Japan,country_or_area,1427734.547,0.0037874137163324,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:400,Jordan,country_or_area,1851.992,4.912859969716797e-06,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:410,Rep. of Korea,country_or_area,187859.155,0.000498342175638,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:414,Kuwait,country_or_area,11749.587,3.1168641998996144e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:418,Lao People's Dem. Rep.,country_or_area,21950.461,5.82289454618215e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:422,Lebanon,country_or_area,40039.083,0.0001062134221394,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:428,Latvia,country_or_area,17217.315,4.5673122588814935e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:440,Lithuania,country_or_area,7298.59,1.9361288086760268e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:458,Malaysia,country_or_area,120210.469,0.0003188875551789,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:490,"Other Asia, nes",reporting_area,160055.652,0.0004245866103297,data/raw/comtrade/suppliers_united_kingdom_2023.json,"Other Asia, nes (special category)"
+CT:826,2023,CT:528,Netherlands,country_or_area,839209.875,0.0022262086451121,data/raw/comtrade/suppliers_united_kingdom_2023.json,Netherlands
+CT:826,2023,CT:566,Nigeria,country_or_area,1796.06,4.764486713338692e-06,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:579,Norway,country_or_area,12265.41,3.2536988173363654e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:586,Pakistan,country_or_area,50739754.619,0.1345995605493641,data/raw/comtrade/suppliers_united_kingdom_2023.json,Pakistan
+CT:826,2023,CT:591,Panama,country_or_area,136725.519,0.0003626977487666,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:616,Poland,country_or_area,8562.668,2.271456294151108e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:620,Portugal,country_or_area,11009953.481,0.0292065838973651,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:642,Romania,country_or_area,165698.635,0.0004395559975033,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:682,Saudi Arabia,country_or_area,11154.215,2.95892727220823e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:699,India,country_or_area,82092833.517,0.2177712406891037,data/raw/comtrade/suppliers_united_kingdom_2023.json,India
+CT:826,2023,CT:704,Viet Nam,country_or_area,9042808.107,0.0239882515489866,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:724,Spain,country_or_area,50357815.355,0.1335863736020292,data/raw/comtrade/suppliers_united_kingdom_2023.json,Spain
+CT:826,2023,CT:752,Sweden,country_or_area,5200.494,1.3795577300200207e-05,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:764,Thailand,country_or_area,30469066.965,0.0808266231209254,data/raw/comtrade/suppliers_united_kingdom_2023.json,Thailand
+CT:826,2023,CT:784,United Arab Emirates,country_or_area,252727.366,0.0006704209087692,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:792,Türkiye,country_or_area,342741.657,0.0009092057452892,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:818,Egypt,country_or_area,101131.218,0.0002682751937378,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:842,USA,country_or_area,11522146.233,0.030565299954497,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:826,2023,CT:858,Uruguay,country_or_area,612094.695,0.0016237302994513,data/raw/comtrade/suppliers_united_kingdom_2023.json,Other supplier countries/areas
+CT:860,2018,CT:398,Kazakhstan,country_or_area,2622714.0,0.4674983685682776,data/raw/comtrade/suppliers_uzbekistan_2018.json,Kazakhstan
+CT:860,2018,CT:440,Lithuania,country_or_area,210.0,3.7432467817435794e-05,data/raw/comtrade/suppliers_uzbekistan_2018.json,Other supplier countries/areas
+CT:860,2018,CT:586,Pakistan,country_or_area,1421742.0,0.2534252936176038,data/raw/comtrade/suppliers_uzbekistan_2018.json,Pakistan
+CT:860,2018,CT:643,Russian Federation,country_or_area,924865.0,0.1648570445141559,data/raw/comtrade/suppliers_uzbekistan_2018.json,Russian Federation
+CT:860,2018,CT:699,India,country_or_area,4538.0,0.0008088978045501,data/raw/comtrade/suppliers_uzbekistan_2018.json,India
+CT:860,2018,CT:764,Thailand,country_or_area,633600.0,0.1129391029006062,data/raw/comtrade/suppliers_uzbekistan_2018.json,Thailand
+CT:860,2018,CT:784,United Arab Emirates,country_or_area,2373.0,0.000422986886337,data/raw/comtrade/suppliers_uzbekistan_2018.json,Other supplier countries/areas
+CT:860,2018,CT:792,Türkiye,country_or_area,61.0,1.087324065173135e-05,data/raw/comtrade/suppliers_uzbekistan_2018.json,Türkiye
+CT:860,2023,CT:104,Myanmar,country_or_area,14190.0,0.0004508437643991,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:112,Belarus,country_or_area,23074.0,0.0007331056391646,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:156,China,country_or_area,235588.0,0.0074850867348325,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:380,Italy,country_or_area,2067.0,6.567259062812582e-05,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:398,Kazakhstan,country_or_area,13493621.0,0.4287184557445969,data/raw/comtrade/suppliers_uzbekistan_2023.json,Kazakhstan
+CT:860,2023,CT:440,Lithuania,country_or_area,5088.0,0.0001616556077,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:586,Pakistan,country_or_area,11165902.98,0.3547623490076972,data/raw/comtrade/suppliers_uzbekistan_2023.json,Pakistan
+CT:860,2023,CT:643,Russian Federation,country_or_area,39625.0,0.0012589629432218,data/raw/comtrade/suppliers_uzbekistan_2023.json,Russian Federation
+CT:860,2023,CT:699,India,country_or_area,1092819.0,0.0347209747545417,data/raw/comtrade/suppliers_uzbekistan_2023.json,India
+CT:860,2023,CT:704,Viet Nam,country_or_area,16500.0,0.0005242369353478,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:764,Thailand,country_or_area,4563353.0,0.1449865570685195,data/raw/comtrade/suppliers_uzbekistan_2023.json,Thailand
+CT:860,2023,CT:792,Türkiye,country_or_area,584100.0,0.018557987511315,data/raw/comtrade/suppliers_uzbekistan_2023.json,Türkiye
+CT:860,2023,CT:842,USA,country_or_area,71725.0,0.0022788420719895,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas
+CT:860,2023,CT:858,Uruguay,country_or_area,166665.0,0.0052952696260457,data/raw/comtrade/suppliers_uzbekistan_2023.json,Other supplier countries/areas

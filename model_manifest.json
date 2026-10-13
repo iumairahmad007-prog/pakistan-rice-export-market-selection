@@ -1,0 +1,150 @@
+{
+  "created_date": "2026-09-28",
+  "scope": "2018–2023 history; 2023 common year; fixed approved scores; PBS fiscal years kept separate",
+  "input_sha256": {
+    "reports/tables/market_metrics_exploratory.csv": "b439d1a0d85aa9e1839314333f3c9120dd35420efdb829b54994eb139a26fa28",
+    "reports/tables/strict_market_screening.csv": "a1320b607deb0f286760e303ecd5ceb6e3043e4eaa000bf0a59980865ff6bbb8",
+    "reports/tables/quality_review_sensitivity.csv": "c102864200e2b2f80a16d8f7b7ae7eadc141c9648226fdda3a5cc7feef0f87f2",
+    "reports/tables/extended_market_screening.csv": "5fd63f684547f888760189466cce78a7148a92bb5dd525336983e05d63f5bfb1",
+    "reports/tables/focus_market_screening_comparison.csv": "ea72d839ab482f0771d419ea47dbd3e61d75e51ddcb2c64e5bc77c28177bf91a",
+    "reports/tables/focus_supplier_shares_exploratory.csv": "1b801bf7b032b39fbbab4fcf700c859c10db143da023ae5b0de2dd6c9792ca70",
+    "reports/tables/focus_mirror_comparison.csv": "5f90ea4342bda5d41540cab241f48e177d504cbe05f2c7d242016932c683fe40",
+    "data/processed/market_imports_clean.csv": "45796a0c56a10297f77b255b34e57dde2e0d4dfefb8cd5fd6d47075ba785da8d",
+    "data/processed/imports_from_pakistan_clean.csv": "bc6033d21261ca80f62f0d9db07e4d954693e67cd4775ab010ceb84fb2a152d1",
+    "data/processed/pbs_basmati_supporting.csv": "5d0a479e10f839183e295e1e76436eaaa993a7f99e2e8cda5ce1c66625bb71e8"
+  },
+  "tables": {
+    "Markets": {
+      "rows": 181,
+      "columns": {
+        "EconomyID": "text",
+        "ComtradeCode": "whole",
+        "SourceMarketName": "text",
+        "SourceISO": "text",
+        "PanelCode": "text",
+        "StrictPanel": "logical",
+        "EstimatedAddition": "logical",
+        "EstimatedYears": "whole",
+        "MeanImportValueUSD": "decimal",
+        "QuantityCAGR": "decimal",
+        "GrowthSD": "decimal",
+        "PooledUnitValueUSDt": "decimal",
+        "FullUnitValueWindow": "logical",
+        "PakistanShare2018": "decimal",
+        "PakistanShare2023": "decimal",
+        "PakistanShareChangePP": "decimal",
+        "WorldValue2023USD": "decimal",
+        "MetricSourceFiles": "text",
+        "Market": "text",
+        "IsFocus": "logical",
+        "FocusOrder": "whole",
+        "QuantityComplete": "logical",
+        "Panel": "text",
+        "StrictBaseScore": "decimal",
+        "StrictBaseRank": "decimal",
+        "BestStrictRank": "decimal",
+        "WorstStrictRank": "decimal",
+        "Top10Scenarios": "decimal",
+        "ExtendedBaseScore": "decimal",
+        "ExtendedBaseRank": "decimal",
+        "ReviewNote": "text",
+        "Population2023": "decimal",
+        "GDPPerCapita2023USD": "decimal",
+        "ResearchGroup": "text",
+        "Status": "text"
+      }
+    },
+    "AnnualImports": {
+      "rows": 1013,
+      "columns": {
+        "EconomyID": "text",
+        "Year": "whole",
+        "WorldImportValueUSD": "decimal",
+        "WorldQuantityTonnes": "decimal",
+        "QuantityQuality": "text",
+        "AnyQuantityEstimated": "logical",
+        "NetWeightEstimated": "logical",
+        "QuantityFieldReview": "logical",
+        "WorldSourceFile": "text",
+        "PakistanImportValueUSD": "decimal",
+        "PakistanSourceFile": "text",
+        "PakistanObservationPresent": "logical"
+      }
+    },
+    "Scenarios": {
+      "rows": 7,
+      "columns": {
+        "ScenarioID": "text",
+        "Scenario": "text",
+        "Family": "text",
+        "ScenarioOrder": "whole",
+        "UniverseN": "whole",
+        "SizeWeight": "decimal",
+        "GrowthWeight": "decimal",
+        "StabilityWeight": "decimal",
+        "UnitValueWeight": "decimal",
+        "Interpretation": "text"
+      }
+    },
+    "Screening": {
+      "rows": 546,
+      "columns": {
+        "EconomyID": "text",
+        "Score": "decimal",
+        "OriginalRank": "whole",
+        "SizePercentile": "decimal",
+        "GrowthPercentile": "decimal",
+        "StabilityPercentile": "decimal",
+        "UnitValuePercentile": "decimal",
+        "ScenarioID": "text"
+      }
+    },
+    "SupplierShares": {
+      "rows": 262,
+      "columns": {
+        "EconomyID": "text",
+        "Year": "whole",
+        "SupplierID": "text",
+        "Supplier": "text",
+        "SupplierType": "text",
+        "ImportValueUSD": "decimal",
+        "ValueShare": "decimal",
+        "SourceFile": "text",
+        "SupplierDisplay": "text"
+      }
+    },
+    "MirrorComparison": {
+      "rows": 18,
+      "columns": {
+        "EconomyID": "text",
+        "Year": "whole",
+        "ImporterValueUSD": "decimal",
+        "PakistanExporterValueUSD": "decimal",
+        "ImporterQuantityTonnes": "decimal",
+        "ExporterQuantityTonnes": "decimal",
+        "ImporterSourceFile": "text",
+        "ExporterSourceFile": "text"
+      }
+    },
+    "PBSBasmati": {
+      "rows": 12,
+      "columns": {
+        "EconomyID": "text",
+        "FiscalYear": "text",
+        "ExportValueUSDRounded": "whole",
+        "ExportQuantityTonnes": "whole",
+        "SourceFile": "text",
+        "SourceNote": "text"
+      }
+    }
+  },
+  "rules": [
+    "No score recalculation",
+    "No synthetic trade rows",
+    "No missing-to-zero replacement",
+    "No UK quantity metrics",
+    "No 2024/2025 observations in dashboard ranking",
+    "All six focus markets retained",
+    "Qualitative research groups copied from Phase 6, not computed"
+  ]
+}
