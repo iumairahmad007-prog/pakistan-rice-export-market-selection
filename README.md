@@ -29,7 +29,7 @@ The main reference contains **69 strict markets** with six positive unestimated 
 
 The base weights are **40% size, 30% physical quantity growth, 20% stability and 10% pooled unit value**. Average-rank percentiles address highly skewed distributions; five weight scenarios test sensitivity. Weights are assumptions, not objective market truths. Pakistan share, supplier structure, population/income and commercial evidence remain outside the score.
 
-Primary values and source flags are retained. Quantity is net weight / 1,000. Missing is not zero; no imputation or automatic outlier deletion is used. Pakistan shares use destination-reported numerator and denominator. Exporter mirror values and PBS fiscal years stay separate. See [methods, sources and concise dictionary](docs/Methods_and_Sources.md).
+Primary values and source flags are retained. Quantity is net weight / 1,000. Missing is not zero; no imputation or automatic outlier deletion is used. Pakistan shares use destination-reported numerator and denominator. Exporter mirror values and PBS fiscal years stay separate. See [Methods and Sources](Methods_and_Sources.md).
 
 ## Data sources
 
